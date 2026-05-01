@@ -5,13 +5,13 @@
 document.addEventListener('DOMContentLoaded', () => {
     // --- Data ---
     const games = [
-        { id: 1, name: 'Live Cricket', category: 'cricket', players: '1.2L+', image: '../../../../../.gemini/antigravity/brain/9fb241ac-5c15-44a6-b3ac-59fb4fe59839/live_cricket_game_1777322999346.png', tag: 'Hot' },
+        { id: 1, name: 'Live Cricket', category: 'cricket', players: '1.2L+', image: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&q=80&w=800', tag: 'Hot' },
         { id: 2, name: 'Teen Patti', category: 'casino', players: '85K+', image: 'https://images.unsplash.com/photo-1511193311914-0346f16efe90?auto=format&fit=crop&q=80&w=800', tag: 'Trending' },
         { id: 3, name: 'Dragon Tiger', category: 'casino', players: '42K+', image: 'https://images.unsplash.com/photo-1596838132731-3301c3fd4317?auto=format&fit=crop&q=80&w=800', tag: 'New' },
         { id: 4, name: 'Andar Bahar', category: 'casino', players: '96K+', image: 'https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&q=80&w=800', tag: 'Popular' },
         { id: 5, name: 'IPL 2024 Special', category: 'cricket', players: '2.5L+', image: 'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&q=80&w=800', tag: 'Featured' },
         { id: 6, name: 'Virtual Horse Racing', category: 'virtual', players: '15K+', image: 'https://images.unsplash.com/photo-1534491336317-42809f05ee2f?auto=format&fit=crop&q=80&w=800', tag: 'Virtual' },
-        { id: 7, name: 'Roulette Live', category: 'casino', players: '38K+', image: '../../../../../.gemini/antigravity/brain/9fb241ac-5c15-44a6-b3ac-59fb4fe59839/live_casino_game_1777323013476.png', tag: 'Premium' },
+        { id: 7, name: 'Roulette Live', category: 'casino', players: '38K+', image: 'https://images.unsplash.com/photo-1517232115160-ff93364542dd?auto=format&fit=crop&q=80&w=800', tag: 'Premium' },
         { id: 8, name: 'World Cup Exchange', category: 'cricket', players: '1.8L+', image: 'https://images.unsplash.com/photo-1593341646782-e0b495cff86d?auto=format&fit=crop&q=80&w=800', tag: 'Exchange' }
     ];
 
